@@ -1,0 +1,4 @@
+*.xlsx
+*.pkl
+.env
+__pycache__
